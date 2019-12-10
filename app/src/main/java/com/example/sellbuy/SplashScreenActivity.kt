@@ -25,3 +25,5 @@ class SplashScreenActivity : AppCompatActivity() {
         }, SPLASH_TIME_OUT)
     }
 }
+
+/*AIzaSyCXO5NUpa7GGo3msj0BoOjTuw6bRq9IV8g*/
